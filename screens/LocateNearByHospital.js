@@ -2,7 +2,6 @@ import React from 'react';
 import {Text,View,Image, TextInput,StyleSheet,Dimensions} from 'react-native';
 import Icon from '@expo/vector-icons/AntDesign';
 import MapView, {Marker} from 'react-native-maps';
-import GeoLocation from 'react-native-geolocation-service';
   
 
 export default class LocateNearByHospital extends React.Component
